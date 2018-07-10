@@ -1,4 +1,4 @@
-# AutoAccepter - This is an AutoAccepter for Dota 2 written in AutoHotkey
+# AutoAccepter - A Dota 2 auto accepter written in AutoHotkey
 
 The aim of this is to allow me to accept games when I'm alt tabbed or away for short periods of time and don't want to miss the queue.
 
